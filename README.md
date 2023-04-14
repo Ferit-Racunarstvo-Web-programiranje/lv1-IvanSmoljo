@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://bespoke-melba-ebf38c.netlify.app/
 
 <hr />
 
